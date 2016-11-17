@@ -2,4 +2,5 @@ body {
     background-image: url("http://cdn.wallpapersafari.com/20/83/zcDNeq.jpg");
     background-repeat: no-repeat;
     background-position: right top;
+    background-attachment: fixed;
 }
