@@ -391,10 +391,10 @@ ul.top-links li a i.fa {
     border: 2px solid #fff;
 }
 ul.top-links li a i.fa:hover {
-    color:#44c7f4;
+    color:#000000;
 }
 .w3_navigation {
-    background: #44c7f4;
+    background: #000000;
     padding: 0.5em 0;
 }
 /*-- //social-icons --*/
