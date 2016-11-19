@@ -93,7 +93,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
         margin: 8px 0 0 0!important;
 }
 .navbar-default .navbar-brand,.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-     color: #0144FE;
+     color: #FE0000;
 }
 .navbar-brand {
       line-height: 35px;
@@ -154,7 +154,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 /*-- //header --*/
 #home {
-    background: url(../images/banner.jpg) no-repeat center top;
+    background: url(../images/back.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -512,7 +512,7 @@ h3.w3l_head.two {
 /*-- //services --*/
 /*-- /skills --*/
 .skills{
-      background: url(../images/banner.jpg) no-repeat center top;
+      background: url(../images/back.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -704,7 +704,7 @@ p.b_label {
 }
 /*-- //portfolio --*/
 #counter {
-    background: url(../images/banner.jpg) no-repeat center top;
+    background: url(../images/back.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
