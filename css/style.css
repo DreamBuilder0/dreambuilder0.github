@@ -171,7 +171,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 .banner img {
        margin: 0 auto;
     text-align: center;
-    border: 7px solid #ffffff;
+    border: 7px solid #00ff00;
 }
 .banner h2 {
     font-size: 3.5em;
@@ -362,8 +362,8 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
     -ms-border-radius: 50%;
 }
 .callbacks_here a:after{
-    background: #000000;
-    border: 1px solid #000000;
+    background: #00ff00;
+    border: 1px solid #00ff00;
     height: 3px;
     width: 45px;
     border-radius: 0;
@@ -391,7 +391,7 @@ ul.top-links li a i.fa {
     border: 2px solid #fff;
 }
 ul.top-links li a i.fa:hover {
-    color:#000000;
+    color:#00ff00;
 }
 .w3_navigation {
     background: #000000;
