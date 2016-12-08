@@ -154,7 +154,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 /*-- //header --*/
 #home {
-    background: url(../images/back2.jpg) no-repeat center top;
+    background: url(../images/back1.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -512,7 +512,7 @@ h3.w3l_head.two {
 /*-- //services --*/
 /*-- /skills --*/
 .skills{
-      background: url(../images/back2.jpg) no-repeat center top;
+      background: url(../images/back1.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -704,7 +704,7 @@ p.b_label {
 }
 /*-- //portfolio --*/
 #counter {
-    background: url(../images/back2.jpg) no-repeat center top;
+    background: url(../images/back1.jpg) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
