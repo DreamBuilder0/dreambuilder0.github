@@ -1,5 +1,5 @@
 /*--
-Author: Amandeep Singh
+Author: W3Layouts.com
 --*/
 html, body{
     font-size: 100%;
@@ -72,7 +72,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 /*-- //nav-effect --*/
 .header {
-    border-bottom: 1px solid #00ff00;
+    border-bottom: 1px solid #00FFFF;
 }
 .navbar-default {
     background: none;
@@ -93,7 +93,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
         margin: 8px 0 0 0!important;
 }
 .navbar-default .navbar-brand,.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-     color: #00ff00;
+     color: ##00FFFF;
 }
 .navbar-brand {
       line-height: 35px;
@@ -108,7 +108,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     background: none;
-	color:#00ff00;
+	color:##00FFFF;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
      color: #111!important;
@@ -171,7 +171,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 .banner img {
        margin: 0 auto;
     text-align: center;
-    border: 7px solid #00ff00;
+    border: 7px solid #00FFFF;
 }
 .banner h2 {
     font-size: 3.5em;
@@ -180,7 +180,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
     letter-spacing: 6px;
 }
 .banner span {
-    color: #00ff00;
+    color: #00FFFF;
 	letter-spacing:4px;
 	font-size:0.9em;
 }
@@ -362,8 +362,8 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
     -ms-border-radius: 50%;
 }
 .callbacks_here a:after{
-    background: #00ff00;
-    border: 1px solid #00ff00;
+    background: #00FFFF;
+    border: 1px solid #00FFFF;
     height: 3px;
     width: 45px;
     border-radius: 0;
@@ -391,7 +391,7 @@ ul.top-links li a i.fa {
     border: 2px solid #fff;
 }
 ul.top-links li a i.fa:hover {
-    color:#00ff00;
+    color:#00FFFF;
 }
 .w3_navigation {
     background: #000000;
