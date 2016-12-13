@@ -1,5 +1,8 @@
 /*--
-Author: W3Layouts.com
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
     font-size: 100%;
@@ -93,7 +96,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
         margin: 8px 0 0 0!important;
 }
 .navbar-default .navbar-brand,.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
-     color: ##00FFFF;
+     color: #202020;
 }
 .navbar-brand {
       line-height: 35px;
@@ -108,7 +111,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 }
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     background: none;
-	color:##00FFFF;
+	color:#7ac143;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
      color: #111!important;
@@ -171,7 +174,7 @@ input[type="submit"],input[type="reset"],.w3ls_footer_grid_leftl,.w3ls_footer_gr
 .banner img {
        margin: 0 auto;
     text-align: center;
-    border: 7px solid #00FFFF;
+    border: 7px solid #44c7f4;
 }
 .banner h2 {
     font-size: 3.5em;
