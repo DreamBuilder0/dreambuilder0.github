@@ -715,11 +715,11 @@ p.b_label {
 blockquote {
 border:none;
 font-family:Georgia, "Times New Roman", Times, serif;
-margin-bottom:-60px;
+margin-bottom:-50px;
 }
 
 blockquote h3 {
-    font-size:21px;
+    font-size:50px;
 }
 
 blockquote h3:before {
