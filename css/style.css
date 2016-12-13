@@ -713,7 +713,9 @@ p.b_label {
     min-height:450px;
 }
 blockquote h3:{
-    align-items: center;
+    text-align: center;
+    text-align: left;
+    text-align: right;
 }
 blockquote h3:before {
     content: open-quote;
