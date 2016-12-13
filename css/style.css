@@ -712,28 +712,27 @@ p.b_label {
     -ms-background-size: cover;
     min-height:450px;
 }
-.agile_count_grid {
-    text-align: center;
+blockquote {
+border:none;
+font-family:Georgia, "Times New Roman", Times, serif;
+margin-bottom:-30px;
 }
-.agile_count_grid  h5 {
-    font-size: 1.6em;
-    text-transform: uppercase;
-    color: #fff;
-    letter-spacing: 2px;
-	    margin: 0.5em 0;
-}
-p.counter {
-    font-size: 2em;
-	color:#fff;
-	}
-.agile_count_grid span{
-	 font-size:2em;
-    text-transform: uppercase;
-       color: #44c7f4;
 
+blockquote h3 {
+    font-size:21px;
 }
-.count {
-    padding-top: 11em;
+
+blockquote h3:before {
+    content: open-quote;
+    font-weight: bold;
+    font-size:100px;
+    color:#889c0b;
+}
+blockquote h3:after {
+    content: close-quote;
+    font-weight: bold;
+    font-size:100px;
+    color:#889c0b;
 }
 /*-- mail --*/
 .w3_mail_grids textarea{
