@@ -712,17 +712,6 @@ p.b_label {
     -ms-background-size: cover;
     min-height:450px;
 }
-q {
-    display: inline;
-}
-
-q:before {
-    content: open-quote;
-}
-
-q:after {
-    content: close-quote;
-}
 /*-- mail --*/
 .w3_mail_grids textarea{
 	outline: none;
