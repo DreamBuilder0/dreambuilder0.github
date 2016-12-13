@@ -712,7 +712,18 @@ p.b_label {
     -ms-background-size: cover;
     min-height:450px;
 }
-
+blockquote h3:before {
+    content: open-quote;
+    font-weight: bold;
+    font-size:100px;
+    color:#889c0b;
+}
+blockquote h3:after {
+    content: close-quote;
+    font-weight: bold;
+    font-size:100px;
+    color:#889c0b;
+}
 /*-- mail --*/
 .w3_mail_grids textarea{
 	outline: none;
