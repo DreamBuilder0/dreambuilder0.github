@@ -713,26 +713,11 @@ p.b_label {
     min-height:450px;
 }
 blockquote {
-border:none;
-font-family:Georgia, "Times New Roman", Times, serif;
-margin-bottom:-50px;
-}
-
-blockquote h3 {
-    font-size:50px;
-}
-
-blockquote h3:before {
-    content: open-quote;
-    font-weight: bold;
-    font-size:100px;
-    color:#00FF00;
-}
-blockquote h3:after {
-    content: close-quote;
-    font-weight: bold;
-    font-size:100px;
-    color:#00FF00;
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 /*-- mail --*/
 .w3_mail_grids textarea{
