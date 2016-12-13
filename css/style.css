@@ -729,20 +729,6 @@ blockquote h3:after {
     font-size:100px;
     color:#889c0b;
 }
-blockquote{
-    position: relative;
-}
-
-blockquote h3:before {
-    position: absolute;
-    top: 0;
-    left: 0;
-}
-
-blockquote h3:after{
-    bottom: 0;
-    right: 0;
-}
 /*-- mail --*/
 .w3_mail_grids textarea{
 	outline: none;
