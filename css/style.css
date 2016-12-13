@@ -715,7 +715,7 @@ p.b_label {
 blockquote {
 border:none;
 font-family:Georgia, "Times New Roman", Times, serif;
-margin-bottom:-30px;
+margin-bottom:-60px;
 }
 
 blockquote h3 {
@@ -726,13 +726,13 @@ blockquote h3:before {
     content: open-quote;
     font-weight: bold;
     font-size:100px;
-    color:#889c0b;
+    color:#00FF00;
 }
 blockquote h3:after {
     content: close-quote;
     font-weight: bold;
     font-size:100px;
-    color:#889c0b;
+    color:#00FF00;
 }
 /*-- mail --*/
 .w3_mail_grids textarea{
