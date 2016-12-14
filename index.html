@@ -445,9 +445,34 @@ Smartphone Compatible web template, free web designs for Nokia, Samsung, LG, Son
 	<input type="text" name="_gotcha" style="display:none" />
 	<input type="hidden" name="_subject" value="New submission!" />
 <!--formspree-->
+<!--cofirmation-->
+<div id="message"></div>
+
+
+  <script>
+    $(document).foundation('abide','events');
+
+
+      $('#order_form')
+        .on('invalid.fndtn.abide', function () {
+          var message;
+          console.log('invalid')
+          var invalid_fields = $(this).find('[data-invalid]');
+          console.log(invalid_fields);
+          message = 'Not valid, try again.'
+        })
+        .on('valid.fndtn.abide', function () {
+          var message;
+          console.log('valid!');
+
+          message = '<p style="text-align:center; font-weight:bold; color:#060;">Thank you for your order. We shall soon despatch your order.</p>';
+          $('#message').html(message);
+
+    });
+
+  </script>
+<!--confimation-->
 <!-- mail -->
-		<div id="error_message" class="ajax_response" style="float:left"></div>
-		<div id="success_message" class="ajax_response" style="float:left"></div>
 	<div class="mail" id="mail">
 		<div class="container">
 			<h3 class="w3l_head w3l_head1">Contact Me</h3>
