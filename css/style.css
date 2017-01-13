@@ -727,7 +727,7 @@ blockquote::before{
 
   /*Font*/
   font-family: monospace;, serif;
-  font-size: 200px;
+  font-size: 100px;
   font-weight: italic;
   color: #00ffff;
 
@@ -739,7 +739,7 @@ blockquote::after{
   content: "\201E";
 
   font-family: monospace;, serif;
-  font-size: 200px;
+  font-size: 100px;
   font-weight: italic;
   color: #00ffff;
 
