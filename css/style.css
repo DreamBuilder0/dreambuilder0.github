@@ -715,38 +715,6 @@ p.b_label {
     -ms-background-size: cover;
     min-height:450px;
 }
-  blockquote{
-  /*Font*/
-  font-family: monospace, serif;
-  font-size: 100px;
-  text-align: center;
-  vertical-align:
-  color: #fff;
-}
-blockquote::before{
-  content: "\201C";
-
-  /*Font*/
-  font-family: monospace,serif;
-  font-size: 100px;
-  font-weight: italic;
-  color: #00ffff;
-
-  /*Positioning*/
-  position: relative;
-}
-
-blockquote::after{
-  content: "\201E";
-
-  font-family: monospace, serif;
-  font-size: 100px;
-  font-weight: italic;
-  color: #00ffff;
-
-  position: relative;
-}
-
 /*-- mail --*/
 .w3_mail_grids textarea{
 	outline: none;
