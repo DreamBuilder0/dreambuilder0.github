@@ -721,7 +721,7 @@ p.b_label {
   font-size: 100px;
   color: #fff;
   text-align: center;
-  text-align: right;
+  position: relative;
 }
 blockquote::before{
   content: "\201C";
