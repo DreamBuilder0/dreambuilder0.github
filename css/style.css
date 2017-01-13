@@ -714,7 +714,6 @@ p.b_label {
     -o-background-size: cover;
     -ms-background-size: cover;
     min-height:450px;
-    vertical-align: middle;
 }
   blockquote{
   /*Font*/
