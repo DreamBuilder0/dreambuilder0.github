@@ -714,20 +714,19 @@ p.b_label {
     -o-background-size: cover;
     -ms-background-size: cover;
     min-height:450px;
-
-    blockquote{
+}
+  blockquote{
   /*Font*/
-  font-family: Ar Destine, serif;
+  font-family: monospace;, serif;
   font-size: 150px;
   color: #000;
   text-align: center;
 }
-
 blockquote::before{
   content: "\201C";
 
   /*Font*/
-  font-family: Ar destine, serif;
+  font-family: monospace;, serif;
   font-size: 200px;
   font-weight: italic;
   color: #00ffff;
@@ -739,7 +738,7 @@ blockquote::before{
 blockquote::after{
   content: "\201E";
 
-  font-family: Ar destine, serif;
+  font-family: monospace;, serif;
   font-size: 200px;
   font-weight: italic;
   color: #00ffff;
