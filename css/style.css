@@ -722,7 +722,7 @@ p.b_label {
   margin: 0 0 20px;
   position: relative;
 
-  font-family: monospace;, serif;
+  font-family: monospace, serif;
   font-size: 100px;
   text-align: center;
   vertical-align: middle;
@@ -731,7 +731,7 @@ blockquote::before{
   content: "\201C";
 
   /*Font*/
-  font-family: monospace;, serif;
+  font-family: monospace,serif;
   font-size: 100px;
   font-weight: italic;
   color: #00ffff;
@@ -743,7 +743,7 @@ blockquote::before{
 blockquote::after{
   content: "\201E";
 
-  font-family: monospace;, serif;
+  font-family: monospace, serif;
   font-size: 100px;
   font-weight: italic;
   color: #00ffff;
