@@ -717,11 +717,15 @@ p.b_label {
 }
   blockquote{
   /*Font*/
+
+  padding: 15px 20px 15px 45px;
+  margin: 0 0 20px;
+  position: relative;
+
   font-family: monospace;, serif;
   font-size: 100px;
   color: #fff;
   text-align: center;
-  text-align: 538px;
 }
 blockquote::before{
   content: "\201C";
