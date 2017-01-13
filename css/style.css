@@ -715,15 +715,12 @@ p.b_label {
     -ms-background-size: cover;
     min-height:450px;
 }
-  q{
-      width: 1920px;
-      height: 528px;
-      padding-top: 264px;
-      padding-left: 630px;
-      font-size: 200px;
-      text-align: center;
-      position: relative;
-  }
+h2 {
+  font-size: 3.5em;
+  color: #fff;
+  margin: 0em 0;
+  letter-spacing: 6px;
+}
 /*-- mail --*/
 .w3_mail_grids textarea{
 	outline: none;
