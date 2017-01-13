@@ -717,7 +717,7 @@ p.b_label {
 }
   blockquote{
   /*Font*/
-
+  background-size: auto;
   padding: 15px 20px 15px 45px;
   margin: 0 0 20px;
   position: relative;
@@ -725,6 +725,7 @@ p.b_label {
   font-family: monospace;, serif;
   font-size: 100px;
   text-align: center;
+  vertical-align: middle;
 }
 blockquote::before{
   content: "\201C";
