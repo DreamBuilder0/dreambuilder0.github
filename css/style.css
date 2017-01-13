@@ -715,6 +715,15 @@ p.b_label {
     -ms-background-size: cover;
     min-height:450px;
 }
+  blockquote {
+      width: 1920px;
+      height: 528px;
+      padding-top: 264px;
+      padding-left: 630px;
+      font-size: 200px;
+      text-align: center;
+      position: relative;
+  }
 /*-- mail --*/
 .w3_mail_grids textarea{
 	outline: none;
